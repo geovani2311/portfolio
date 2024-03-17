@@ -38,49 +38,55 @@ st.subheader("👔 Work Experience", divider='gray')
 
 #job 1
 st.write("")
-st.write("**Data analyst junior | Grupo DPSP**")
-st.text("Sep/22 to Jan/23")
+st.write("**Intermediate Data Analyst | Vidalink**")
+st.text("Jan/2024 to present")
 st.write(
     """
-    - Desenvolvimento e criaçao de dashboard para acompanhamento das campanhas, 
-    industrias
-    - Extraço es e analises ad hoc utilizando SQL e Python
-    - Criaça o de KPI's - relato rio analí tico para prevença o de perdas
-    - Automatizaça o de report's e demais tarefas utilizando Python, Knime e 
-    power automate
+    - Responsible for the development and maintenance of reports, indicators, and goals across various Vidalink areas
+    - Modeling metrics and designing KPIs
+    - Managing PostgreSQL database and creating query codes, views, procedures, and functions. Extracting and manipulating data for analysis/studies/audits using tools such as Excel,Metabase, PowerBI, Python
+    - Presenting results and insights to different business areas
     """ 
     )
 
 #job 2
 st.write("")
-st.write("**Data analyst junior | Grupo DPSP**")
+st.write("**Junior Data Analyst | Grupo DPSP**")
 st.text("Sep/22 to Jan/23")
 st.write(
     """
-    - Desenvolvimento e criaçao de dashboard para acompanhamento das campanhas, 
-    industrias
-    - Extraço es e analises ad hoc utilizando SQL e Python
-    - Criaça o de KPI's - relato rio analí tico para prevença o de perdas
-    - Automatizaça o de report's e demais tarefas utilizando Python, Knime e 
-    power automate
+    - Development and creation of dashboards for campaign and industry monitoring
+    - Ad hoc extractions and analyses using SQL and Python
+    - Creation of KPIs - analytical report for loss prevention
+    - Automation of reports and other tasks using Python, Knime, and Power Automate
     """ 
     )
+
 #job 3
 st.write("")
-st.write("**Data analyst junior | Grupo DPSP**")
-st.text("Sep/22 to Jan/23")
+st.write("**Intern | Unilever**")
+st.text("Feb/2021 to Jun/2022")
 st.write(
     """
-    - Desenvolvimento e criaçao de dashboard para acompanhamento das campanhas, 
-    industrias
-    - Extraço es e analises ad hoc utilizando SQL e Python
-    - Criaça o de KPI's - relato rio analí tico para prevença o de perdas
-    - Automatizaça o de report's e demais tarefas utilizando Python, Knime e 
-    power automate
+    - Analysis of stock health of customers to avoid stockouts and overstock
+    - Innovation analysis (incrementality, performance, turnover, and results)
+    - Development of Power BI dashboards for Sell Out monitoring
+    - ETL - Alteryx / R / Python for automation and consolidation of e-commerce data
     """ 
     )
 
-
+#job 4
+st.write("")
+st.write("**Apprentice | Unilever**")
+st.text("Jul/2019 to Jan/2021")
+st.write(
+    """
+    - Responsible for receiving and sending e-commerce Sell Out data
+    - Organization and validation of data for the team's use in decision-making, strategy, and results monitoring (Sell Out)
+    - Criaça o de KPI's - relato rio analí tico para prevença o de perdas
+    - Development of Market Share by category and client
+    """ 
+    )
 
 
 st.subheader("Skills 🐱‍👤", divider='gray')
