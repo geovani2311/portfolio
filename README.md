@@ -1,2 +1,2 @@
-## Portfólio em streamlit
-Bem-vindo ao meu portfólio digital, desenvolvido com Streamlit! Este portfólio foi criado para apresentar meus projetos, habilidades e realizações de uma maneira interativa e dinâmica. A escolha de Streamlit como ferramenta de desenvolvimento permite uma interface amigável e moderna, ideal para destacar meus trabalhos de forma clara e envolvente.
+## Portfolio streamlit
+Welcome to my digital portfolio, developed with Streamlit! This portfolio was created to showcase my projects, skills, and achievements in an interactive and dynamic way. The choice of Streamlit as the development tool provides a user-friendly and modern interface, ideal for presenting my work clearly and engagingly.
